@@ -12,7 +12,7 @@
 ---
 
 ---
-Interview Questions & Answers
+Interview Questions and  Answers
 1. How does logistic regression differ from linear regression?
 Linear regression predicts numbers. Logistic regression predicts probabilities for categories.
 
